@@ -22,7 +22,7 @@ The recommender will allow users to input a desired career (e.g. Data Scientist,
 
 ## Video Demo
 
-[![Watch Demo](https://img.youtube.com/vi/OyuNZmcIYlU/0.jpg)](https://youtu.be/OyuNZmcIYlU)
+[![Watch Demo](thumbnail.png)](https://youtu.be/OyuNZmcIYlU)
 
 ## Contributors
 
