@@ -1,4 +1,4 @@
-# Checkpoint 2
+# Implementation Details
 
 ## Application Requirements
 
