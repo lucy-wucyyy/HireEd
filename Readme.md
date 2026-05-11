@@ -32,6 +32,7 @@ The recommender will allow users to input a desired career (e.g. Data Scientist,
 [Course to Career Search](https://github.com/cs411-alawini/fa25-cs411-team121-121/blob/main/HireEd/backend/controllers/jobController.js)
 
 ## Video Demo
+
 <video width="320" height="240" controls>
   <source src="Video Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
