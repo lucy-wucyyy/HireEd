@@ -1,16 +1,5 @@
 # HireEd
 
-## Contributors
-
-| Info    | Description           |
-| ------- | --------------------- |
-| Captain | Lucy Wu               |
-| Captain | lucywu3@illinois.edu  |
-| Member1 | Josephine Lee         |
-| Member1 | jl221@illinois.edu    |
-| Member2 | Eunice Choi           |
-| Member2 | eunicec4@illinois.edu |
-
 ## Project Summary
 
 This project aims to design and implement a database system that bridges the gap between academic courses and career requirements. Many students struggle to identify which courses best prepare them for the jobs they aspire to pursue. Our system integrates labor market skill data with course catalog information to generate personalized recommendations.
@@ -37,3 +26,14 @@ The recommender will allow users to input a desired career (e.g. Data Scientist,
   <source src="Video Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## Contributors
+
+| Info    | Description           |
+| ------- | --------------------- |
+| Captain | Lucy Wu               |
+| Captain | lucywu3@illinois.edu  |
+| Member1 | Josephine Lee         |
+| Member1 | jl221@illinois.edu    |
+| Member2 | Eunice Choi           |
+| Member2 | eunicec4@illinois.edu |
