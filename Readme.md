@@ -22,10 +22,7 @@ The recommender will allow users to input a desired career (e.g. Data Scientist,
 
 ## Video Demo
 
-<video width="320" height="240" controls>
-  <source src="Video Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch Demo](thumbnail.png)](./video-demo.mp4)
 
 ## Contributors
 
